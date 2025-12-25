@@ -1,0 +1,9 @@
+Library/
+Temp/
+Obj/
+Logs/
+Build/
+UserSettings/
+.vs/
+.vscode/
+.DS_Store
